@@ -12,3 +12,6 @@ A robust TypeScript tool designed to simulate high-load scenarios for AI service
 - *TypeScript:* Advanced interfaces and asynchronous programming.
 - *QA Mindset:* Focus on performance thresholds and edge-case failure detection.
 - *Documentation:* Clear, professional technical reporting.
+  ## Stress Test Result
+
+![API Stress Tester](screenshot.png)
